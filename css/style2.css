@@ -1,0 +1,29 @@
+.formulario{
+    color: black;
+    width: 600px;
+    background: antiquewhite;
+    border-radius: 30px;
+    font-family: 'Arial';
+    font-size: 30px;
+    padding: 80px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+
+.imagen{
+    width: 100px;
+    margin-left: 550px;
+    margin-top: -45px;
+    border-radius: 20px;
+
+}
+
+h1{
+    margin-top: -40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+body{
+    background-color: black;
+}
